@@ -1,3 +1,3 @@
 # Shopping Cart
 
-A sample shopping cart made using ReactJs and Redux.
+A sample shopping cart made using Node, Express, ReactJs and Redux.
